@@ -1,0 +1,2 @@
+Hmmmm, eh bien c'est le tour du fichier "file2.txt" d'être modifié. Il a même l'air tout content, il servira à faire un joli commit.
+Allez, on y va pour le commit... :)
